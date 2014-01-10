@@ -1,0 +1,10 @@
+# Folders
+/node_modules
+/npm-debug.log
+/app/components/
+/tmp/
+
+# Files
+.DS_Store
+*~
+*.swp

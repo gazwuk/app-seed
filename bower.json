@@ -1,0 +1,11 @@
+{
+  "name": "app-seed",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.*.*",
+    "underscore": "1.*.*",
+    "es5-shim": "2.*.*",
+    "json3": "3.*.*"
+  },
+  "private": true
+}
